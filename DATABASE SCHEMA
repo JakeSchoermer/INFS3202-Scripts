@@ -14,6 +14,7 @@ Cities
 Countries
 	countryID			integer			PRIMARY KEY
 	countryCode			string
+	countryName			string							//Full country name
 
 Events
 	eventID				integer			PRIMARY KEY
@@ -32,5 +33,5 @@ Results
 	result 				double
 	medal				string
 
-	
+
 

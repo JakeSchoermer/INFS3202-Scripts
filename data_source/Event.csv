@@ -1,0 +1,884 @@
+EventID,EventName,Sport,Type
+1,>75kg Women,Weightlifting,Final
+2,¼ Mile,Cycling,Final
+3,½ Mile,Cycling,Final
+4,½ Ton Class - Race 1,Sailing,Final
+5,½ Ton Class - Race 2,Sailing,Final
+6,½-1 Ton Class,Sailing,Final
+7,1 Mile,Cycling,Final
+8,1 Mile Freestyle Men,Swimming,Final
+9,1.1km Sprint Women,Nordic Skiing,Final
+10,1.35km Sprint Men,Nordic Skiing,Final
+11,1.5km Sprint Men,Nordic Skiing,Final
+12,1.5km Sprint Women,Nordic Skiing,Final
+13,1/3 Mile,Cycling,Final
+14,10 Meter Class,Sailing,Final
+15,"10 Meter Class, 1907 Rating",Sailing,Final
+16,"10 Meter Class, 1919 Rating",Sailing,Final
+17,10 Mile Walk Men,Track & Field,Final
+18,10000m Men,Speed Skating,Final
+19,10000m Men,Track & Field,Final
+20,10000m Women,Track & Field,Final
+21,1000m Freestyle Men,Swimming,Final
+22,1000m Men,Speed Skating,Final
+23,1000m Short Track Men,Speed Skating,Final
+24,1000m Short Track Women,Speed Skating,Final
+25,1000m Sprint  Men,Cycling,Final
+26,1000m Sprint (Scratch) Men,Cycling,Final
+27,1000m Time Trial Men,Cycling,Final
+28,1000m Women,Speed Skating,Final
+29,100kg,Weightlifting,Final
+30,100km Track Race,Cycling,Final
+31,100m Backstroke Men,Swimming,Final
+32,100m Backstroke Women,Swimming,Final
+33,100m Breaststroke Men,Swimming,Final
+34,100m Breaststroke Women,Swimming,Final
+35,100m Butterfly Men,Swimming,Final
+36,100m Butterfly Women,Swimming,Final
+37,100m Freestyle for Sailors,Swimming,Final
+38,100m Freestyle Men,Swimming,Final
+39,100m Freestyle Women,Swimming,Final
+40,100m Hurdles Women,Track & Field,Final
+41,100m Men,Track & Field,Final
+42,100m Women,Track & Field,Final
+43,100yds Backstroke Men,Swimming,Final
+44,100yds Freestyle Men,Swimming,Final
+45,10-20 Ton Class,Sailing,Final
+46,10km Biathlon Men,Biathlon,Final
+47,10km Cross-country Classical Men,Nordic Skiing,Final
+48,10km Cross-country Classical Women,Nordic Skiing,Final
+49,10km Cross-country Combined Pursuit Women,Nordic Skiing,Final
+50,10km Cross-Country Combined Women,Nordic Skiing,Final
+51,10km Cross-country Men,Nordic Skiing,Final
+52,10km Cross-country Pursuit Women,Nordic Skiing,Final
+53,10km Cross-Country Women,Nordic Skiing,Final
+54,10km Marathon Men,Swimming,Final
+55,10km Marathon Women,Swimming,Final
+56,10km Pursuit Women,Biathlon,Final
+57,10km Sprint Men,Biathlon,Final
+58,10km Track Race,Cycling,Final
+59,10km Walk Men,Track & Field,Final
+60,10km Walk Women,Track & Field,Final
+61,10m Air Pistol Men,Shooting,Final
+62,10m Air Pistol Women,Shooting,Final
+63,10m Air Rifle Men,Shooting,Final
+64,10m Air Rifle Women,Shooting,Final
+65,10m Running Game Target,Shooting,Final
+66,110m Hurdles Men,Track & Field,Final
+67,12' Centreboard Boat,Sailing,Final
+68,12' Dinghy,Sailing,Final
+69,12 Meter Class,Sailing,Final
+70,"12 Meter Class, 1907 Rating",Sailing,Final
+71,"12 Meter Class, 1919 Rating",Sailing,Final
+72,1-2 Ton Class - Race 1,Sailing,Final
+73,1-2 Ton Class - Race 2,Sailing,Final
+74,12.5km Mass Start Women,Biathlon,Final
+75,12.5km Pursuit Men,Biathlon,Final
+76,1200m Freestyle Men,Swimming,Final
+77,12-Hour Race,Cycling,Final
+78,1500m Freestyle Men,Swimming,Final
+79,1500m Men,Speed Skating,Final
+80,1500m Men,Track & Field,Final
+81,1500m Short Track Men,Speed Skating,Final
+82,1500m Short Track Women,Speed Skating,Final
+83,1500m Walk Men,Track & Field,Final
+84,1500m Women,Speed Skating,Final
+85,1500m Women,Track & Field,Final
+86,15km Biathlon Women,Biathlon,Final
+87,15km Cross-Country Classical Men,Nordic Skiing,Final
+88,15km Cross-Country Classical Women,Nordic Skiing,Final
+89,15km Cross-country Combined Men,Nordic Skiing,Final
+90,15km Cross-country Freestyle Women,Nordic Skiing,Final
+91,15km Cross-country Men,Nordic Skiing,Final
+92,15km Cross-country Pursuit Men,Nordic Skiing,Final
+93,15km Individual Women,Biathlon,Final
+94,15km Mass Start Men,Biathlon,Final
+95,1600m Medley Relay Men,Track & Field,Final
+96,17-Man Naval Rowing Boats,Rowing,Final
+97,18' Dinghy,Sailing,Final
+98,18km Cross-country Men,Nordic Skiing,Final
+99,2 Miles,Cycling,Final
+100,20+ Ton Class,Sailing,Final
+101,2000m Sprint (Scratch) Men,Cycling,Final
+102,2000m Tandem,Cycling,Final
+103,200m Backstroke Men,Swimming,Final
+104,200m Backstroke Women,Swimming,Final
+105,200m Breaststroke Men,Swimming,Final
+106,200m Breaststroke Women,Swimming,Final
+107,200m Butterfly Men,Swimming,Final
+108,200m Butterfly Women,Swimming,Final
+109,200m Freestyle Men,Swimming,Final
+110,200m Freestyle Women,Swimming,Final
+111,200m Hurdles Men,Track & Field,Final
+112,200m Individual Medley Men,Swimming,Final
+113,200m Individual Medley Women,Swimming,Final
+114,200m Men,Track & Field,Final
+115,200m Team Swimming- Men,Swimming,Final
+116,200m Women,Track & Field,Final
+117,20km Biathlon Men,Biathlon,Final
+118,20km Cross-Country  Women,Nordic Skiing,Final
+119,20km Cross-country Combined Pursuit Men,Nordic Skiing,Final
+120,20km Individual Men,Biathlon,Final
+121,20km Track Race,Cycling,Final
+122,20km Walk Men,Track & Field,Final
+123,20km Walk Women,Track & Field,Final
+124,220yds Freestyle Men,Swimming,Final
+125,2-3 Ton Class - Race 1,Sailing,Final
+126,2-3 Ton Class - Race 2,Sailing,Final
+127,25 Miles,Cycling,Final
+128,2500m Steeplechase Men,Track & Field,Final
+129,25km Track Race,Cycling,Final
+130,25m Rapid-Fire Pistol,Shooting,Final
+131,25m Sport Pistol Women,Shooting,Final
+132,2-Man Bobsled,Bobsleigh,Final
+133,2-man Teams with Cesta,Pelota Basque,Final
+134,2-Seater Men,Lugeing,Final
+135,2-Woman Bobsled,Bobsleigh,Final
+136,2-Women Bobsled,Bobsleigh,Final
+137,2x15km Cross-country Combined Pursuit Men,Nordic Skiing,Final
+138,2x7.5km Cross-country Combined Pursuit Women,Nordic Skiing,Final
+139,3000m Individual Pursuit Women,Cycling,Final
+140,3000m Short Track Relay Women,Speed Skating,Final
+141,3000m Steeplechase Men,Track & Field,Final
+142,3000m Steeplechase Women,Track & Field,Final
+143,3000m Team Race,Track & Field,Final
+144,3000m Walk Men,Track & Field,Final
+145,3000m Women,Speed Skating,Final
+146,3000m Women,Track & Field,Final
+147,300m Freestyle Women,Swimming,Final
+148,30km Cross-Country Classic Women,Nordic Skiing,Final
+149,30km Cross-country Classical Men,Nordic Skiing,Final
+150,30km Cross-country Freestyle Men,Nordic Skiing,Final
+151,30km Cross-country Freestyle Women,Nordic Skiing,Final
+152,30km Cross-country Men,Nordic Skiing,Final
+153,30km Cross-country Men (Classical),Nordic Skiing,Final
+154,30km Cross-country Men (Freestyle),Nordic Skiing,Final
+155,30m² Class,Sailing,Final
+156,3-10 Ton Class,Sailing,Final
+157,3200m Steeplechase Men,Track & Field,Final
+158,3500m Walk Men,Track & Field,Final
+159,3-Mile Team Race,Track & Field,Final
+160,3x5km Cross Country Relay Women,Nordic Skiing,Final
+161,3x7½km Biathlon Relay Women,Biathlon,Final
+162,4000m Freestyle Men,Swimming,Final
+163,4000m Individual Pursuit Men,Cycling,Final
+164,4000m Steeplechase Men,Track & Field,Final
+165,4000m Team Pursuit Men,Cycling,Final
+166,400m Breaststroke Men,Swimming,Final
+167,400m Freestyle Men,Swimming,Final
+168,400m Freestyle Women,Swimming,Final
+169,400m Hurdles Men,Track & Field,Final
+170,400m Hurdles Women,Track & Field,Final
+171,400m Individual Medley Men,Swimming,Final
+172,400m Individual Medley Women,Swimming,Final
+173,400m Men,Track & Field,Final
+174,400m Women,Track & Field,Final
+175,40m² Class,Sailing,Final
+176,440yds Breaststroke Men,Swimming,Final
+177,440yds Freestyle Men,Swimming,Final
+178,470 Men,Sailing,Final
+179,470 Women,Sailing,Final
+180,48kg Women,Weightlifting,Final
+181,49er,Sailing,Final
+182,49kg Women,Taekwondo,Final
+183,4-Mile Team Race,Track & Field,Final
+184,4x100m Freestyle Relay Men,Swimming,Final
+185,4x100m Freestyle Relay Women,Swimming,Final
+186,4x100m Medley Relay Men,Swimming,Final
+187,4x100m Medley Relay Women,Swimming,Final
+188,4x100m Relay Men,Track & Field,Final
+189,4x100m Relay Women,Track & Field,Final
+190,4x10km Cross-country Relay Men,Nordic Skiing,Final
+191,4x10km Relay Men,Nordic Skiing,Final
+192,4x200m Freestyle Relay Men,Swimming,Final
+193,4x200m Freestyle Relay Women,Swimming,Final
+194,4x250m Freestyle Relay Men,Swimming,Final
+195,4x400m Relay Men,Track & Field,Final
+196,4x400m Relay Women,Track & Field,Final
+197,4x50yds Freestyle Relay,Swimming,Final
+198,4x5km Cross Country Relay Women,Nordic Skiing,Final
+199,4x5km Cross-country Relay Women,Nordic Skiing,Final
+200,4x6km Relay Women,Biathlon,Final
+201,4x7.5km Relay Men,Biathlon,Final
+202,4x7½km Biathlon Relay Men,Biathlon,Final
+203,4x7½km Biathlon Relay Women,Biathlon,Final
+204,"5 Events, Individual Men",Gymnastics,Final
+205,5 Miles,Cycling,Final
+206,5 Miles Men,Track & Field,Final
+207,5000m Men,Speed Skating,Final
+208,5000m Men,Track & Field,Final
+209,5000m Short Track Relay Men,Speed Skating,Final
+210,5000m Team Race,Track & Field,Final
+211,5000m Women,Speed Skating,Final
+212,5000m Women,Track & Field,Final
+213,500m Freestyle Men,Swimming,Final
+214,500m Men,Speed Skating,Final
+215,500m Short Track Men,Speed Skating,Final
+216,500m Short Track Women,Speed Skating,Final
+217,500m Time Trial Women,Cycling,Final
+218,500m Women,Speed Skating,Final
+219,50km Cross-country Freestyle Men,Nordic Skiing,Final
+220,50km Cross-country Men,Nordic Skiing,Final
+221,50km Cross-country Men (Classical),Nordic Skiing,Final
+222,50km Cross-country Men (Freestyle),Nordic Skiing,Final
+223,50km Track Race,Cycling,Final
+224,50km Walk Men,Track & Field,Final
+225,50m Freestyle Men,Swimming,Final
+226,50m Freestyle Women,Swimming,Final
+227,50m Pistol Men,Shooting,Final
+228,"50m Small-bore Rifle, 3 Positions",Shooting,Final
+229,"50m Small-bore Rifle, 3 Positions Women",Shooting,Final
+230,"50m Small-bore Rifle, prone",Shooting,Final
+231,50yds Freestyle Men,Swimming,Final
+232,5½ Meter Class,Sailing,Final
+233,53kg Women,Weightlifting,Final
+234,56-Pound Weight Throw,Track & Field,Final
+235,57kg Women,Taekwondo,Final
+236,58kg Men,Taekwondo,Final
+237,58kg Women,Weightlifting,Final
+238,5km Cross-country Classical Women,Nordic Skiing,Final
+239,5km Cross-Country Women,Nordic Skiing,Final
+240,5km Cross-Country Women (Classical),Nordic Skiing,Final
+241,5km Track Race,Cycling,Final
+242,"6 Events, Individual Men",Gymnastics,Final
+243,6 Meter Class,Sailing,Final
+244,"6 Meter Class, 1907 Rating",Sailing,Final
+245,60m Men,Track & Field,Final
+246,6½ Meter Class,Sailing,Final
+247,63kg Women,Weightlifting,Final
+248,67kg Women,Taekwondo,Final
+249,68kg Men,Taekwondo,Final
+250,69kg Women,Weightlifting,Final
+251,7 Meter Class,Sailing,Final
+252,7.5km Sprint Women,Biathlon,Final
+253,7½km Biathlon Women,Biathlon,Final
+254,75kg Women,Weightlifting,Final
+255,7-Man Naval Rowing Boats,Rowing,Final
+256,8 Meter Class,Sailing,Final
+257,"8 Meter Class, 1907 Rating",Sailing,Final
+258,800m Freestyle Women,Swimming,Final
+259,800m Men,Track & Field,Final
+260,800m Women,Track & Field,Final
+261,80kg Men,Taekwondo,Final
+262,80m Hurdles Women,Track & Field,Final
+263,880yds Freestyle Men,Swimming,Final
+264,99kg,Weightlifting,Final
+265,Air Pistol,Shooting,Final
+266,Air Pistol Men,Shooting,Final
+267,Air Pistol Women,Shooting,Final
+268,Air Rifle,Shooting,Final
+269,Air Rifle Men,Shooting,Final
+270,Air Rifle Women,Shooting,Final
+271,"All-around, Individual Men",Gymnastics,Final
+272,"All-Around, Individual Women",Gymnastics,Final
+273,"All-round, weight-class winners",Wrestling,Final
+274,Alpine Combined Men,Alpine Skiing,Final
+275,Alpine Combined Women,Alpine Skiing,Final
+276,Applied Graphics,Art Contests,Final
+277,Architectural Design,Art Contests,Final
+278,Army Gun 300m,Shooting,Final
+279,Asymmetrical Bars Women,Gymnastics,Final
+280,Au chapelet 33m Men,Archery,Final
+281,Au chapelet 50m Men,Archery,Final
+282,Au cordon doré 33m Men,Archery,Final
+283,Au cordon doré 50m Men,Archery,Final
+284,Balance Beam Women,Gymnastics,Final
+285,Bantamweight,Boxing,Final
+286,Bantamweight,Weightlifting,Final
+287,Bantamweight 56kg,Weightlifting,Final
+288,Bantamweight 59kg,Weightlifting,Final
+289,Baseball,Baseball,Final
+290,Basketball Men,Basketball,Final
+291,Basketball Women,Basketball,Final
+292,Beach Volleyball Men,Volleyball,Final
+293,Beach Volleyball Women,Volleyball,Final
+294,BMX Individual Men,Cycling,Final
+295,BMX Individual Women,Cycling,Final
+296,C1  Canadian Slalom Singles (Men),Canoeing,Final
+297,"C1 10,000m Canadian Singles (Men)",Canoeing,Final
+298,C1 1000m Canadian Singles (Men),Canoeing,Final
+299,C1 500m Canadian Singles (Men),Canoeing,Final
+300,C2  Canadian Slalom Pairs (Men),Canoeing,Final
+301,"C2 10,000m Canadian Pairs (Men)",Canoeing,Final
+302,C2 1000m Canadian Pairs (Men),Canoeing,Final
+303,C2 500m Canadian Pairs (Men),Canoeing,Final
+304,Club Swinging,Gymnastics,Final
+305,Combined Competition (3 events),Gymnastics,Final
+306,Combined Competition (4 events),Gymnastics,Final
+307,Combined Pursuit Women,Nordic Skiing,Final
+308,Continental Style Men,Archery,Final
+309,Coxed Fours Inriggers,Rowing,Final
+310,Coxed Fours Men,Rowing,Final
+311,Coxed Fours Men 1. Final,Rowing,Final
+312,Coxed Fours Men 2. Final,Rowing,Final
+313,Coxed Fours Women,Rowing,Final
+314,Coxed Pairs Men,Rowing,Final
+315,Coxed Pairs Men 1000m,Rowing,Final
+316,Coxed Pairs Men 1609m,Rowing,Final
+317,Coxed Quadruple Sculls Women,Rowing,Final
+318,Coxless Fours Men,Rowing,Final
+319,Coxless Fours Women,Rowing,Final
+320,Coxless Pairs Men,Rowing,Final
+321,Coxless Pairs Women,Rowing,Final
+322,Cricket,Cricket,Final
+323,"Croquet, Doubles",Croquet,Final
+324,"Croquet, Singles (1 Ball)",Croquet,Final
+325,"Croquet, Singles (2 Balls)",Croquet,Final
+326,Cross-country Men,Cycling,Final
+327,Cross-country Pursuit Men,Nordic Skiing,Final
+328,Cross-country Team Sprint Men,Nordic Skiing,Final
+329,Cross-country Team Sprint Women,Nordic Skiing,Final
+330,Cross-country Women,Cycling,Final
+331,"Cross-Country, Individual",Track & Field,Final
+332,"Cross-Country, Team Race",Track & Field,Final
+333,Curling Men,Curling,Final
+334,Curling Women,Curling,Final
+335,Decathlon Men,Track & Field,Final
+336,Designs for Town Planning,Art Contests,Final
+337,Discus (both hands),Track & Field,Final
+338,Discus (Greek Style),Track & Field,Final
+339,Discus Throw Men,Track & Field,Final
+340,Discus Throw Women,Track & Field,Final
+341,Double American Round Men,Archery,Final
+342,Double Colombia Round Women,Archery,Final
+343,Double F.I.T.A. Round Men,Archery,Final
+344,Double F.I.T.A. Round Women,Archery,Final
+345,Double National Round Women,Archery,Final
+346,Double Sculls Men,Rowing,Final
+347,Double Sculls Women,Rowing,Final
+348,Double Trap Men,Shooting,Final
+349,Double Trap Women,Shooting,Final
+350,Double York Round Men,Archery,Final
+351,Downhill Men,Alpine Skiing,Final
+352,Downhill Women,Alpine Skiing,Final
+353,Dragon,Sailing,Final
+354,Drawings and Water-Colours,Art Contests,Final
+355,"Dressage, Individual",Equestrian,Final
+356,"Dressage, Team",Equestrian,Final
+357,Duelling Pistol 20m,Shooting,Final
+358,Duelling Pistol 25m,Shooting,Final
+359,Dumbbell Contest,Weightlifting,Final
+360,Eights Men,Rowing,Final
+361,Eights Women,Rowing,Final
+362,Épée for Amateurs and Masters (Open),Fencing,Final
+363,"Épée, Individual",Fencing,Final
+364,"Épée, Individual Men",Fencing,Final
+365,"Épée, Individual Women",Fencing,Final
+366,"Épée, Team",Fencing,Final
+367,"Épée, Team Men",Fencing,Final
+368,"Épée, Team Women",Fencing,Final
+369,Europe Women,Sailing,Final
+370,Extra Lightweight (48kg) Women,Judo,Final
+371,Extra Lightweight (60kg) Men,Judo,Final
+372,"F1 10,000m Folding Kayak Singles (Men)",Canoeing,Final
+373,"F2 10,000m Folding Kayak Pairs (Men)",Canoeing,Final
+374,Featherweight,Boxing,Final
+375,Featherweight,Weightlifting,Final
+376,Featherweight 60kg,Weightlifting,Final
+377,Featherweight 62kg,Weightlifting,Final
+378,Featherweight 64kg,Weightlifting,Final
+379,Field Hockey Men,Field Hockey,Final
+380,Field Hockey Women,Field Hockey,Final
+381,"Figure Riding, Individual",Equestrian,Final
+382,"Figure Riding, Team",Equestrian,Final
+383,Finn,Sailing,Final
+384,Finn Men,Sailing,Final
+385,Firefly Class,Sailing,Final
+386,First Heavyweight 100kg,Weightlifting,Final
+387,Five-Man Bobsled,Bobsleigh,Final
+388,Fixed Large Bird Target Team,Archery,Final
+389,Fixed Small Bird Target Team,Archery,Final
+390,Fixed Target (Large Birds) Men,Archery,Final
+391,Fixed Target (Small Birds) Men,Archery,Final
+392,Floor Exercises,Gymnastics,Final
+393,Floor Exercises Women,Gymnastics,Final
+394,Flying Dutchman,Sailing,Final
+395,Flyweight,Boxing,Final
+396,Flyweight,Weightlifting,Final
+397,Flyweight 52kg,Weightlifting,Final
+398,Flyweight 54kg,Weightlifting,Final
+399,Flyweight 56kg,Weightlifting,Final
+400,"Foil, Individual",Fencing,Final
+401,"Foil, Individual Men",Fencing,Final
+402,"Foil, Individual Women",Fencing,Final
+403,"Foil, Team",Fencing,Final
+404,"Foil, Team Men",Fencing,Final
+405,"Foil, Team Women",Fencing,Final
+406,Four-Man Bobsled,Bobsleigh,Final
+407,Four-Race Combined,Speed Skating,Final
+408,Free Exercises and Apparatus Team,Gymnastics,Final
+409,Free Pistol,Shooting,Final
+410,Free Rifle,Shooting,Final
+411,Free Rifle Teams,Shooting,Final
+412,"Free Rifle, 3 Positions",Shooting,Final
+413,"Free Rifle, Kneeling",Shooting,Final
+414,"Free Rifle, Prone",Shooting,Final
+415,"Free Rifle, Standing",Shooting,Final
+416,Freestyle 120kg Men,Wrestling,Final
+417,Freestyle 48kg Women,Wrestling,Final
+418,Freestyle 55kg Men,Wrestling,Final
+419,Freestyle 55kg Women,Wrestling,Final
+420,Freestyle 60kg Men,Wrestling,Final
+421,Freestyle 63kg Women,Wrestling,Final
+422,Freestyle 66kg Men,Wrestling,Final
+423,Freestyle 72kg Women,Wrestling,Final
+424,Freestyle 74kg Men,Wrestling,Final
+425,Freestyle 84kg Men,Wrestling,Final
+426,Freestyle 96kg Men,Wrestling,Final
+427,Freestyle Bantamweight,Wrestling,Final
+428,Freestyle Bantamweight 57kg,Wrestling,Final
+429,Freestyle Bantamweight 58kg,Wrestling,Final
+430,Freestyle Featherweight,Wrestling,Final
+431,Freestyle Featherweight 62kg,Wrestling,Final
+432,Freestyle Featherweight 63kg,Wrestling,Final
+433,Freestyle Flyweight,Wrestling,Final
+434,Freestyle Flyweight 52kg,Wrestling,Final
+435,Freestyle Flyweight 54kg,Wrestling,Final
+436,Freestyle Heavyweight,Wrestling,Final
+437,Freestyle Heavyweight 100kg,Wrestling,Final
+438,Freestyle Heavyweight 97kg,Wrestling,Final
+439,Freestyle Light Flyweight,Wrestling,Final
+440,Freestyle Light Flyweight 48kg,Wrestling,Final
+441,Freestyle Light Heavyweight,Wrestling,Final
+442,Freestyle Light Heavyweight 90kg,Wrestling,Final
+443,Freestyle Lightweight,Wrestling,Final
+444,Freestyle Lightweight 68kg,Wrestling,Final
+445,Freestyle Lightweight 69kg,Wrestling,Final
+446,Freestyle Middleweight,Wrestling,Final
+447,Freestyle Middleweight 82kg,Wrestling,Final
+448,Freestyle Middleweight 85kg,Wrestling,Final
+449,Freestyle Paperweight 48kg,Wrestling,Final
+450,Freestyle Ski Jump (Aerials) Men,Alpine Skiing,Final
+451,Freestyle Ski Jump (Aerials) Women,Alpine Skiing,Final
+452,Freestyle Ski Jump Men,Alpine Skiing,Final
+453,Freestyle Ski Jump Women,Alpine Skiing,Final
+454,Freestyle Super Heavyweight,Wrestling,Final
+455,Freestyle Super Heavyweight > 100kg,Wrestling,Final
+456,Freestyle Super Heavyweight 130kg,Wrestling,Final
+457,Freestyle Welterweight,Wrestling,Final
+458,Freestyle Welterweight 74kg,Wrestling,Final
+459,Freestyle Welterweight 76kg,Wrestling,Final
+460,Giant Slalom Men,Alpine Skiing,Final
+461,Giant Slalom Women,Alpine Skiing,Final
+462,Golf Men,Golf,Final
+463,Golf Team,Golf,Final
+464,Golf Women,Golf,Final
+465,Graphic Art,Art Contests,Final
+466,Greco-Roman 120kg,Wrestling,Final
+467,Greco-Roman 55kg,Wrestling,Final
+468,Greco-Roman 60kg,Wrestling,Final
+469,Greco-Roman 66kg,Wrestling,Final
+470,Greco-Roman 74kg,Wrestling,Final
+471,Greco-Roman 84kg,Wrestling,Final
+472,Greco-Roman 96kg,Wrestling,Final
+473,Greco-Roman Bantamweight,Wrestling,Final
+474,Greco-Roman Bantamweight 57kg,Wrestling,Final
+475,Greco-Roman Bantamweight 58kg,Wrestling,Final
+476,Greco-Roman Featherweight,Wrestling,Final
+477,Greco-Roman Featherweight 62kg,Wrestling,Final
+478,Greco-Roman Featherweight 63kg,Wrestling,Final
+479,Greco-Roman Flyweight,Wrestling,Final
+480,Greco-Roman Flyweight 52kg,Wrestling,Final
+481,Greco-Roman Flyweight 54kg,Wrestling,Final
+482,Greco-Roman Heavyweight,Wrestling,Final
+483,Greco-Roman Heavyweight 100kg,Wrestling,Final
+484,Greco-Roman Heavyweight 97kg,Wrestling,Final
+485,Greco-Roman Light Flyweight,Wrestling,Final
+486,Greco-Roman Light Flyweight 48kg,Wrestling,Final
+487,Greco-Roman Light Heavyweight,Wrestling,Final
+488,Greco-Roman Light Heavyweight 90kg,Wrestling,Final
+489,Greco-Roman Lightweight,Wrestling,Final
+490,Greco-Roman Lightweight 68kg,Wrestling,Final
+491,Greco-Roman Lightweight 69kg,Wrestling,Final
+492,Greco-Roman Middleweight,Wrestling,Final
+493,Greco-Roman Middleweight 82kg,Wrestling,Final
+494,Greco-Roman Middleweight 85kg,Wrestling,Final
+495,Greco-Roman Super Heavyweight,Wrestling,Final
+496,Greco-Roman Super Heavyweight > 100kg,Wrestling,Final
+497,Greco-Roman Super Heavyweight 130kg,Wrestling,Final
+498,Greco-Roman Welterweight,Wrestling,Final
+499,Greco-Roman Welterweight 74kg,Wrestling,Final
+500,Greco-Roman Welterweight 76kg,Wrestling,Final
+501,Hacks and Hunter combined,Equestrian,Final
+502,Half Heavyweight (72kg) Women,Judo,Final
+503,Half Heavyweight (78kg) Women,Judo,Final
+504,Half Heavyweight (95kg) Men,Judo,Final
+505,Half Lightweight (52kg) Women,Judo,Final
+506,Half Lightweight (65kg) Men,Judo,Final
+507,Half Lightweight (66kg) Men,Judo,Final
+508,Half Middleweight (61kg) Women,Judo,Final
+509,Half Middleweight (63kg) Women,Judo,Final
+510,Half Middleweight (70kg) Men,Judo,Final
+511,Half Middleweight (78kg) Men,Judo,Final
+512,Half Middleweight (81kg) Men,Judo,Final
+513,Half-Heavyweight (100kg) Men,Judo,Final
+514,Half-Heavyweight (93kg) Men,Judo,Final
+515,Half-Heavyweight (95kg) Men,Judo,Final
+516,Hammer Throw Men,Track & Field,Final
+517,Hammer Throw Women,Track & Field,Final
+518,Handball Men,Handball,Final
+519,Handball Women,Handball,Final
+520,Heavyweight,Boxing,Final
+521,Heavyweight,Weightlifting,Final
+522,Heavyweight (+100kg) Men,Judo,Final
+523,Heavyweight (+78kg) Women,Judo,Final
+524,Heavyweight (Two-handed),Weightlifting,Final
+525,Heavyweight 105kg,Weightlifting,Final
+526,Heavyweight 108kg,Weightlifting,Final
+527,Heavyweight 110kg,Weightlifting,Final
+528,Heavyweight Men,Judo,Final
+529,Heavyweight One Handed,Weightlifting,Final
+530,Heavyweight Women,Judo,Final
+531,Heptathlon Women,Track & Field,Final
+532,High Jump,Equestrian,Final
+533,High Jump Men,Track & Field,Final
+534,High Jump Women,Track & Field,Final
+535,Horizontal Bar,Gymnastics,Final
+536,Horizontal Bar Team,Gymnastics,Final
+537,Ice Dance,Figure Skating,Final
+538,Ice Dancing,Figure Skating,Final
+539,Ice Hockey,Ice Hockey,Final
+540,Ice Hockey Men,Ice Hockey,Final
+541,Ice Hockey Women,Ice Hockey,Final
+542,"Ind. Military Rifle, 200m",Shooting,Final
+543,"Ind. Military Rifle, 300m",Shooting,Final
+544,Individual,Modern Pentathlon,Final
+545,Individual Men,Modern Pentathlon,Final
+546,Individual Military Rifle,Shooting,Final
+547,"Individual Military Rifle, 3 Positions",Shooting,Final
+548,"Individual Military Rifle, Any Position",Shooting,Final
+549,"Individual Military Rifle, Kneeling",Shooting,Final
+550,"Individual Military Rifle, Prone",Shooting,Final
+551,"Individual Military Rifle, Prone, 300m",Shooting,Final
+552,"Individual Military Rifle, Prone, 600m",Shooting,Final
+553,"Individual Military Rifle, Standing",Shooting,Final
+554,Individual Pursuit Women,Cycling,Final
+555,Individual Road Race Men,Cycling,Final
+556,Individual Road Race Women,Cycling,Final
+557,Individual Road Time Trial Men,Cycling,Final
+558,Individual Road Time Trial Women,Cycling,Final
+559,Individual Women,Modern Pentathlon,Final
+560,Javelin (both hands),Track & Field,Final
+561,Javelin (Free Style) Men,Track & Field,Final
+562,Javelin Throw Men,Track & Field,Final
+563,Javelin Throw Women,Track & Field,Final
+564,Jeu de Paume,Jeu De Paume,Final
+565,"Jumping, Individual",Equestrian,Final
+566,"Jumping, Team",Equestrian,Final
+567,K1  Kayak Slalom Singles (Men),Canoeing,Final
+568,K1  Kayak Slalom Singles (Women),Canoeing,Final
+569,"K1 10,000m Kayak Singles (Men)",Canoeing,Final
+570,K1 1000m Kayak Singles (Men),Canoeing,Final
+571,K1 4x500m Relay Kayak Singles (Men),Canoeing,Final
+572,K1 500m Kayak Singles (Men),Canoeing,Final
+573,K1 500m Kayak Singles (Women),Canoeing,Final
+574,"K2 10,000m Kayak Pairs (Men)",Canoeing,Final
+575,K2 1000m Kayak Pairs (Men),Canoeing,Final
+576,K2 500m Kayak Pairs (Men),Canoeing,Final
+577,K2 500m Kayak Pairs (Women),Canoeing,Final
+578,K4 1000m Kayak Fours (Men),Canoeing,Final
+579,K4 500m Kayak Fours (Women),Canoeing,Final
+580,Keirin Men,Cycling,Final
+581,Lacrosse,Lacrosse,Final
+582,Laser,Sailing,Final
+583,Laser Men,Sailing,Final
+584,Laser Radial Women,Sailing,Final
+585,Lechner Sailboard Men,Sailing,Final
+586,Light Flyweight,Boxing,Final
+587,Light Heavyweight,Boxing,Final
+588,Light Heavyweight,Weightlifting,Final
+589,Light Heavyweight 82½kg,Weightlifting,Final
+590,Light Heavyweight 83kg,Weightlifting,Final
+591,Light Heavyweight 85kg,Weightlifting,Final
+592,Light Middleweight,Boxing,Final
+593,Light Welterweight,Boxing,Final
+594,Lightweight,Boxing,Final
+595,Lightweight,Weightlifting,Final
+596,Lightweight (56kg) Women,Judo,Final
+597,Lightweight (57kg) Women,Judo,Final
+598,Lightweight (63kg) Men,Judo,Final
+599,Lightweight (68kg) Men,Judo,Final
+600,Lightweight (71kg) Men,Judo,Final
+601,Lightweight (73kg) Men,Judo,Final
+602,Lightweight 67½kg,Weightlifting,Final
+603,Lightweight 69kg,Weightlifting,Final
+604,Lightweight 70kg,Weightlifting,Final
+605,Lightweight Coxless Fours Men,Rowing,Final
+606,Lightweight Double Sculls Men,Rowing,Final
+607,Lightweight Double Sculls Women,Rowing,Final
+608,Literature,Art Contests,Final
+609,Literature Dramatic Works,Art Contests,Final
+610,Literature Epic Works,Art Contests,Final
+611,Long Horse Vault,Gymnastics,Final
+612,Long Jump,Equestrian,Final
+613,Long Jump Men,Track & Field,Final
+614,Long Jump Women,Track & Field,Final
+615,Lyrics,Art Contests,Final
+616,Madison Men,Cycling,Final
+617,Mail Coach,Equestrian,Final
+618,Marathon Men,Track & Field,Final
+619,Marathon Women,Track & Field,Final
+620,Masters Épée,Fencing,Final
+621,Masters Foil,Fencing,Final
+622,Masters Sabre,Fencing,Final
+623,Men,Figure Skating,Final
+624,Men's Doubles,Badminton,Final
+625,Men's Doubles,Table Tennis,Final
+626,Men's Doubles,Tennis,Final
+627,Men's Doubles (Indoor),Tennis,Final
+628,Men's Individual,Archery,Final
+629,Men's Singles,Badminton,Final
+630,Men's Singles,Table Tennis,Final
+631,Men's Singles,Tennis,Final
+632,Men's Singles (Indoor),Tennis,Final
+633,Men's Team,Archery,Final
+634,Men's Team,Table Tennis,Final
+635,Merit for Aeronautics,Art Contests,Final
+636,Merit for Mountaineering,Art Contests,Final
+637,Middle Heavyweight,Weightlifting,Final
+638,Middle Heavyweight 90kg,Weightlifting,Final
+639,Middle Heavyweight 91kg,Weightlifting,Final
+640,Middle Heavyweight 94kg,Weightlifting,Final
+641,Middleweight,Boxing,Final
+642,Middleweight,Weightlifting,Final
+643,Middleweight (66kg) Women,Judo,Final
+644,Middleweight (70kg) Women,Judo,Final
+645,Middleweight (80kg) Men,Judo,Final
+646,Middleweight (86kg) Men,Judo,Final
+647,Middleweight (90kg) Men,Judo,Final
+648,Middleweight 75kg,Weightlifting,Final
+649,Middleweight 76kg,Weightlifting,Final
+650,Middleweight 77kg,Weightlifting,Final
+651,Military Revolver,Shooting,Final
+652,Military Revolver (Model 1873/74),Shooting,Final
+653,Military Revolver Teams 30m,Shooting,Final
+654,Military Revolver Teams 50m,Shooting,Final
+655,Military Revolver Teams 50yds,Shooting,Final
+656,Military Rifle Teams,Shooting,Final
+657,"Military Rifle, Prone, Teams, 300+600m",Shooting,Final
+658,"Military Rifle, Prone, Teams, 300m",Shooting,Final
+659,"Military Rifle, Prone, Teams, 600m",Shooting,Final
+660,"Military Rifle, Standing, Teams, 300m",Shooting,Final
+661,Mistral Men,Sailing,Final
+662,Mistral Women,Sailing,Final
+663,Mixed Doubles,Badminton,Final
+664,Mixed Doubles,Tennis,Final
+665,Mixed Doubles (Indoor),Tennis,Final
+666,Moguls Men,Alpine Skiing,Final
+667,Moguls Women,Alpine Skiing,Final
+668,Monotype Class,Sailing,Final
+669,"Motor Boating, 8m Class",Motor Boating,Final
+670,"Motor Boating, Open Class",Motor Boating,Final
+671,"Motor Boating, Under 60ft Class",Motor Boating,Final
+672,Moving Bird Target 28m Men,Archery,Final
+673,Moving Bird Target 33m Men,Archery,Final
+674,Moving Bird Target 50m Men,Archery,Final
+675,Moving Target,Shooting,Final
+676,Music,Art Contests,Final
+677,Music: Composition for One Instrument,Art Contests,Final
+678,Music: Composition for Orchestra,Art Contests,Final
+679,Music: Composition for Voice,Art Contests,Final
+680,National Round Women,Archery,Final
+681,Nordic Combined,Nordic Skiing,Final
+682,"Nordic Combined, Individual",Nordic Skiing,Final
+683,"Nordic Combined, Sprint",Nordic Skiing,Final
+684,"Nordic Combined, Team",Nordic Skiing,Final
+685,Obstacle Race Men,Swimming,Final
+686,Olympic sprint Men,Cycling,Final
+687,One-Lap Race,Cycling,Final
+688,Open Class,Judo,Final
+689,Open Class,Sailing,Final
+690,over 67kg Women,Taekwondo,Final
+691,over 80kg Men,Taekwondo,Final
+692,Paintings,Art Contests,Final
+693,Pairs,Figure Skating,Final
+694,Parallel Bars,Gymnastics,Final
+695,Parallel Bars Team,Gymnastics,Final
+696,Pentathlon Men,Track & Field,Final
+697,Pentathlon Women,Track & Field,Final
+698,Pistol 25m,Shooting,Final
+699,Plain High Dive Men,Diving,Final
+700,Platform Diving Men,Diving,Final
+701,Platform Diving Women,Diving,Final
+702,Plunge for Distance Men,Diving,Final
+703,Points Race,Cycling,Final
+704,Points Race Men,Cycling,Final
+705,Points Race Women,Cycling,Final
+706,Pole Vault Men,Track & Field,Final
+707,Pole Vault Women,Track & Field,Final
+708,Polo,Polo,Final
+709,Pommeled Horse,Gymnastics,Final
+710,Quadruple Sculls Men,Rowing,Final
+711,Quadruple Sculls Women,Rowing,Final
+712,"Rackets, Men's Doubles",Rackets,Final
+713,"Rackets, Men's Singles",Rackets,Final
+714,Rapid Fire Pistol,Shooting,Final
+715,Rapid-Fire Pistol,Shooting,Final
+716,Rhythmic All-Around,Gymnastics,Final
+717,Rhythmic Team Competition,Gymnastics,Final
+718,Rings,Gymnastics,Final
+719,Rope climbing,Gymnastics,Final
+720,RSX Windsurfer Men,Sailing,Final
+721,RSX Windsurfer Women,Sailing,Final
+722,Rugby,Rugby,Final
+723,"Running Deer, Double Shot",Shooting,Final
+724,"Running Deer, Double Shot, Team",Shooting,Final
+725,"Running Deer, Single & Double Shot",Shooting,Final
+726,"Running Deer, Single Shot",Shooting,Final
+727,"Running Deer, Single Shot, Team",Shooting,Final
+728,Running Game Target,Shooting,Final
+729,"Sabre, Individual",Fencing,Final
+730,"Sabre, Individual Women",Fencing,Final
+731,"Sabre, Team",Fencing,Final
+732,"Sabre, Team Women",Fencing,Final
+733,Sculpture,Art Contests,Final
+734,Sculpture Medals,Art Contests,Final
+735,Sculpture Reliefs,Art Contests,Final
+736,Sharpie 12m²,Sailing,Final
+737,Shot Put (both hands),Track & Field,Final
+738,Shot Put Men,Track & Field,Final
+739,Shot Put Women,Track & Field,Final
+740,Side Horse Vault Women,Gymnastics,Final
+741,Sidehorse Vault,Gymnastics,Final
+742,Single Men,Lugeing,Final
+743,Single Sculls Men,Rowing,Final
+744,Single Sculls Women,Rowing,Final
+745,Single Sticks,Fencing,Final
+746,Singles Men,Lugeing,Final
+747,Singles Women,Lugeing,Final
+748,Skeet Shooting,Shooting,Final
+749,Skeet Shooting Women,Shooting,Final
+750,Skeleton,Lugeing,Final
+751,Skeleton Men,Lugeing,Final
+752,Skeleton Women,Lugeing,Final
+753,Ski Jump,Nordic Skiing,Final
+754,Ski Jump 120m,Nordic Skiing,Final
+755,Ski Jump 70m,Nordic Skiing,Final
+756,Ski Jump 80m,Nordic Skiing,Final
+757,Ski Jump 90m,Nordic Skiing,Final
+758,Ski Jump Team,Nordic Skiing,Final
+759,Ski Jumping Team,Nordic Skiing,Final
+760,Slalom Men,Alpine Skiing,Final
+761,Slalom Women,Alpine Skiing,Final
+762,Small-bore Rifle Team,Shooting,Final
+763,"Small-bore Rifle Team, 25m",Shooting,Final
+764,"Small-bore Rifle Team, 50m",Shooting,Final
+765,"Small-bore Rifle, 3 Positions",Shooting,Final
+766,"Small-bore Rifle, 3 Positions Women",Shooting,Final
+767,"Small-bore Rifle, Disappearing Target",Shooting,Final
+768,"Small-bore Rifle, Moving Target",Shooting,Final
+769,"Small-bore Rifle, prone",Shooting,Final
+770,"Small-bore Rifle, standing",Shooting,Final
+771,Snowboard Cross Men,Alpine Skiing,Final
+772,Snowboard Cross Women,Alpine Skiing,Final
+773,Snowboard Giant Slalom Men,Alpine Skiing,Final
+774,Snowboard Giant Slalom Women,Alpine Skiing,Final
+775,Snowboard Halfpipe Men,Alpine Skiing,Final
+776,Snowboard Halfpipe Women,Alpine Skiing,Final
+777,Soccer,Soccer,Final
+778,Soccer Men,Soccer,Final
+779,Soccer Women,Soccer,Final
+780,Softball Women,Softball,Final
+781,Soling,Sailing,Final
+782,Special Figures,Figure Skating,Final
+783,Sport Pistol Women,Shooting,Final
+784,Springboard Diving Men,Diving,Final
+785,Springboard Diving Women,Diving,Final
+786,Sprint Women,Cycling,Final
+787,Standing High Jump,Track & Field,Final
+788,Standing Long Jump,Track & Field,Final
+789,Standing Triple Jump,Track & Field,Final
+790,Star,Sailing,Final
+791,Stone Throw,Track & Field,Final
+792,Super Giant Slalom Men,Alpine Skiing,Final
+793,Super Giant Slalom Women,Alpine Skiing,Final
+794,Super Heavyweight,Boxing,Final
+795,Super Heavyweight,Weightlifting,Final
+796,Super Heavyweight > 108kg,Weightlifting,Final
+797,Super Heavyweight >105kg,Weightlifting,Final
+798,Sur la perche á la herse Men,Archery,Final
+799,Sur la perche á la pyramide Men,Archery,Final
+800,Swallow,Sailing,Final
+801,Swedish System Team,Gymnastics,Final
+802,Synchronised Platform Diving Men,Diving,Final
+803,Synchronised Platform Diving Women,Diving,Final
+804,Synchronised Springboard Diving Men,Diving,Final
+805,Synchronised Springboard Diving Women,Diving,Final
+806,Synchronised Swimming Duet,Synchronised Swimming,Final
+807,Synchronised Swimming Solo,Synchronised Swimming,Final
+808,Synchronised Team Women,Synchronised Swimming,Final
+809,Team,Modern Pentathlon,Final
+810,Team Combined Exercises,Gymnastics,Final
+811,Team Combined Exercises Women,Gymnastics,Final
+812,Team Competition 28m Men,Archery,Final
+813,Team Competition 33m Men,Archery,Final
+814,Team Competition 50m Men,Archery,Final
+815,Team Exercise with portable Apparatus Women,Gymnastics,Final
+816,Team Pursuit Men,Cycling,Final
+817,Team Pursuit Men,Speed Skating,Final
+818,Team Pursuit Women,Speed Skating,Final
+819,Team Road Race Men,Cycling,Final
+820,Team Road Race Men 100km,Cycling,Final
+821,Team Round Men,Archery,Final
+822,Team Round Women,Archery,Final
+823,Team sprint Men,Cycling,Final
+824,Tempest,Sailing,Final
+825,Three-cornered Sabre,Fencing,Final
+826,"Three-Day Event, Individual",Equestrian,Final
+827,"Three-Day Event, Team",Equestrian,Final
+828,Tornado,Sailing,Final
+829,Trampoline Individual Men,Gymnastics,Final
+830,Trampoline Individual Women,Gymnastics,Final
+831,Trap (Single Shot),Shooting,Final
+832,Trap Shooting,Shooting,Final
+833,Trap Shooting Men,Shooting,Final
+834,Trap Shooting Women,Shooting,Final
+835,"Trap Shooting, Team",Shooting,Final
+836,Triathlon,Track & Field,Final
+837,Triathlon Men,Triathlon,Final
+838,Triathlon Women,Triathlon,Final
+839,Triple Jump Men,Track & Field,Final
+840,Triple Jump Women,Track & Field,Final
+841,Tug of War,Tug Of War,Final
+842,Tumbling,Gymnastics,Final
+843,Underwater Swimming Men,Swimming,Final
+844,Volleyball Men,Volleyball,Final
+845,Volleyball Women,Volleyball,Final
+846,Water Polo,Water Polo,Final
+847,Water Polo Men,Water Polo,Final
+848,Water Polo Women,Water Polo,Final
+849,Waterpolo,Water Polo,Final
+850,Welterweight,Boxing,Final
+851,Windglider Men,Sailing,Final
+852,Windglider Women,Sailing,Final
+853,Women,Figure Skating,Final
+854,Women's Doubles,Badminton,Final
+855,Women's Doubles,Table Tennis,Final
+856,Women's Doubles,Tennis,Final
+857,Women's Individual,Archery,Final
+858,Women's Singles,Badminton,Final
+859,Women's Singles,Table Tennis,Final
+860,Women's Singles,Tennis,Final
+861,Women's Singles (Indoor),Tennis,Final
+862,Women's Team,Archery,Final
+863,Women's Team,Table Tennis,Final
+864,Yngling Women,Sailing,Final
+865,York Round Men,Archery,Final
+866,Men's Individual,Archery,Ranking Round
+867,Women's Individual,Archery,Ranking Round
+868,Men's Team,Archery,Round of 16
+869,Men's Team,Archery,Quarter-finals
+870,Men's Team,Archery,Semi-finals
+871,Men's Team,Archery,Final
+872,Men's Shot Put,Athletics,Qualification
+873,Men's Shot Put,Athletics,Final
+874,Women's Triple Jump,Athletics,Qualification
+875,Women's 100m,Athletics,Preliminaries
+876,Women's 100m,Athletics,Round 1
+877,Men's Hammer Throw,Athletics,Qualification
+878,Woman's 400m,Athletics,Round 1
+879,Women's 10000m,Athletics,Final
+880,Men's Individual,Archery,Final
+881,Men's Individual,Archery,Final
+882,Men's Individual,Archery,Final
+883,Men's Individual,Archery,Final
