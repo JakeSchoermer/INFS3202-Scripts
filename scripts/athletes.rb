@@ -18,23 +18,63 @@ class Athletes
 
     rows = []
 
-    CSV.foreach(filepath, :headers => true) do |row|
+    CSV.foreach(filepath, :headers => true, :return_headers => true, :converters => :all) do |row|
       #puts row
       rows << row
     end
       @athletes = rows
   end
 
+  def printAllRecords
+    @athletes.each do |row|
+      puts "#{row}"
+    end
+  end
 
-  def getRecord(id)
+  def getHeaders
 
-    @athletes[id]
+    @athletes[0]
 
   end
 
-  def listHeaders(record)
+  def getRecord(id)
+
+    if id > 0
+      @athletes[id]
+    else
+      throw "Invalid Record Id"
+    end
+  end
+
+  def getFirstName id
+    @athletes[id]["FirstName"]
+  end
+
+  def getLastName id
+    @athletes[id]["LastName"]
+  end
+
+  def getDOB id
+    @athletes[id]["DateofBirth"]
+  end
 
 
+
+  def writeOutput
+
+    filepath = "../output/Athlete.csv"
+
+    CSV.open(filepath, "wb") do |csv|
+
+
+      @athletes.each_index {|index|
+        if index > 0
+          csv << ["#{index}", getFirstName(index), getLastName(index)]
+        end
+      }
+
+
+    end
 
   end
 
