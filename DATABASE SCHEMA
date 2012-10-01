@@ -18,6 +18,9 @@ Countries
 
 Events
 	eventID				integer			PRIMARY KEY
+	eventName			string
+	sport				string
+	type				string
 
 
 Olympics
