@@ -33,7 +33,7 @@ Results
 	atheleteID			integer			FOREIGN KEY
 	eventID				integer			FOREIGN KEY
 	olympicID			integer			FOREIGN KEY
-	result 				double
+	result 				string
 	medal				string
 
 
