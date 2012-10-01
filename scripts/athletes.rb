@@ -28,11 +28,12 @@ class Athletes
 
   def getRecord(id)
 
-    @athletes.sele
+    @athletes[id]
 
   end
 
-  def listHeaders
+  def listHeaders(record)
+
 
 
   end
