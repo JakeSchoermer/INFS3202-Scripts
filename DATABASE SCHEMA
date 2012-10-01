@@ -1,0 +1,36 @@
+Athletes
+	atheleteID			integer         PRIMARY KEY
+	first_name			string
+	last_name			string
+	DOB					date
+	gender				string
+	countryID			integer			FOREIGN KEY
+
+Cities
+	cityID				integer
+	city_name			string
+	countryID			integer			FOREIGN KEY
+
+Countries
+	countryID			integer			PRIMARY KEY
+	countryCode			string
+
+Events
+	eventID				integer			PRIMARY KEY
+
+
+Olympics
+	olympicID			integer			PRIMARY KEY
+	year				integer
+	season				integer						//1 = summer, 2 = winter
+
+Results
+	resultID			integer			PRIMARY KEY
+	atheleteID			integer			FOREIGN KEY
+	eventID				integer			FOREIGN KEY
+	olympicID			integer			FOREIGN KEY
+	result 				double
+	medal				string
+
+	
+
