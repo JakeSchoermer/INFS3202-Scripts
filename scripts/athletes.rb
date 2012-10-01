@@ -4,33 +4,40 @@ $: << "." #Append Current Directory to Load Path
 
 
 require "csv"
-#require "country_code"
 
 class Athletes
 
   
-  @athletes = {}
+  @athletes = []
   
   
 	def initialize
-		puts "Athelete Script"
-		
+
+
 		filepath = "../data_source/Athlete.csv"
 
-    
-    
-    @rows = []
-    data = CSV.open(filepath, :headers => true) do |line|
-      line.each do |row|
-        #puts header
-      end
+    rows = []
+
+    CSV.foreach(filepath, :headers => true) do |row|
+      #puts row
+      rows << row
     end
-    
-    row.headers
+      @athletes = rows
+  end
+
+
+  def getRecord(id)
+
+    @athletes.sele
+
+  end
+
+  def listHeaders
 
 
   end
+
+
+
+
 end
-
-
-Athletes.new
