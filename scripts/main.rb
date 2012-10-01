@@ -6,7 +6,7 @@ puts "//========== Athletes ==========//"
 
 athletes = Athletes.new
 
-puts athletes.getHeaders
+puts athletes.printHeaders
 
 athletes.writeOutput
 puts "File Written"

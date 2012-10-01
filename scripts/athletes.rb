@@ -37,6 +37,16 @@ class Athletes
 
   end
 
+  def printHeaders
+
+    output = ""
+
+    @athletes.each {|word|
+      output += "#{word} "
+    }
+
+  end
+
   def getRecord(id)
 
     if id > 0
@@ -58,6 +68,14 @@ class Athletes
     @athletes[id]["DateofBirth"]
   end
 
+  def getGender id
+    @athletes[id]["Gender"]
+  end
+
+  def getCountry id
+    @athletes[id]["Country"]
+  end
+
 
 
   def writeOutput
@@ -69,7 +87,7 @@ class Athletes
 
       @athletes.each_index {|index|
         if index > 0
-          csv << ["#{index}", getFirstName(index), getLastName(index)]
+          csv << ["#{index}", getFirstName(index), getLastName(index), getDOB(index), getGender(index), getCountry(index)]
         end
       }
 
