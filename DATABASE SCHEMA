@@ -3,7 +3,7 @@ Athletes
 	first_name			string
 	last_name			string
 	DOB					date
-	gender				string
+	gender				string(1)                       //M or F
 	countryID			integer			FOREIGN KEY
 
 Cities

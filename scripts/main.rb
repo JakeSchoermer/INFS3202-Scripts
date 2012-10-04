@@ -1,16 +1,15 @@
 $: << "." #Append Current Directory to Load Path
 
 require "athletes.rb"
+require "cities.rb"
 
-puts "//========== Athletes ==========//"
+puts "//========== Athletes ==========//\n"
 
 athletes = Athletes.new
 
-puts athletes.printHeaders
+#puts athletes.printHeaders
 
 athletes.writeOutput
 puts "File Written"
 
-#puts athletes.getRecord(1)
-
-#Athletes.listHeaders
+puts "//========== Cities ==========//\n"
