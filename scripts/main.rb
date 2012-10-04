@@ -1,7 +1,7 @@
 $: << "." #Append Current Directory to Load Path
 
-require "athletes.rb"
-require "cities.rb"
+require "athletes"
+require "cities"
 
 puts "//========== Athletes ==========//\n"
 
