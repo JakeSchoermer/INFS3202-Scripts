@@ -327,16 +327,20 @@ class Athletes
   def getCountry id
     country = @athletes[id]["Country"]
 
-    COUNTRY_CODES.each do |key|
-      if /key/.match(country)
-        puts COUNTRY_CODES[key]
-        return COUNTRY_CODES[key]
-      else
-        puts COUNTRY_CODES[key]
-        return COUNTRY_CODES[key]
+    result = ""
+
+    COUNTRY_CODES.each_key do |key|
+
+      match = /#{key}/.match(country).to_s
+
+      if match.size > 0
+        #puts COUNTRY_CODES[key]
+        result = COUNTRY_CODES[key]
       end
+
     end
 
+    result
 
   end
 
@@ -350,7 +354,7 @@ class Athletes
 
 
       @athletes.each_index {|index|
-        if index > 0
+        if index >0
           csv << ["#{index}", getFirstName(index), getLastName(index), getDOB(index), getGender(index), getCountry(index)]
         end
       }
