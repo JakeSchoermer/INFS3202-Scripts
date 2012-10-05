@@ -13,8 +13,6 @@ class Athletes
 
   
 	def initialize
-
-
 		filepath = "../data_source/Athlete.csv"
 
     rows = []
@@ -104,10 +102,7 @@ class Athletes
 
   end
 
-
-
   def writeOutput
-
     filepath = "../output/Athlete.csv"
 
     CSV.open(filepath, "wb") do |csv|
@@ -121,6 +116,5 @@ class Athletes
 
 
     end
-
   end
 end
