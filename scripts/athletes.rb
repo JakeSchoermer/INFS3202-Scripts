@@ -66,7 +66,7 @@ class Athletes
   end
 
   def getDOB id
-    @athletes[id]["DateofBirth"]
+    @athletes[id]["DateOfBirth"]
   end
 
   def getGender id
@@ -89,7 +89,6 @@ class Athletes
     result = ""
 
     COUNTRY_CODES.each_key do |key|
-
       #Tries to get the Appropriate Shortcode for the country
       if country_code.eql? key
         result = getCountryFromCode(key)
@@ -99,9 +98,8 @@ class Athletes
 
     if result ==""
       result = "NO MATCH"
-      puts "#{id} => #{result}"
+      puts "#{id} => #{result} => #{country_code}"
     end
-    #puts "#{id} => #{result}"
     result
 
   end
@@ -116,7 +114,7 @@ class Athletes
 
 
       @athletes.each_index {|index|
-        if index >0 and index <100
+        if index >0
           csv << ["#{index}", getFirstName(index), getLastName(index), getDOB(index), getGender(index), getCountry(index)]
         end
       }
@@ -125,8 +123,4 @@ class Athletes
     end
 
   end
-
-
-
-
 end
