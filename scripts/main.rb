@@ -2,6 +2,7 @@ $: << "." #Append Current Directory to Load Path
 
 require "athletes"
 require "cities"
+require "events"
 
 puts "//========== Athletes ==========//\n"
 puts "\n"
@@ -10,7 +11,12 @@ puts "\n"
 #puts "File Written"
 puts "\n"
 puts "//========== Cities ==========//\n"
-cities = Cities.new
-cities.writeOutput
+#cities = Cities.new
+#cities.writeOutput
+#puts"File Written"
+puts"\n"
+puts "//========== Events ==========//\n"
+events = Events.new
+events.writeOutput
 puts"File Written"
 puts"\n"

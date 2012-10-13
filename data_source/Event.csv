@@ -1,10 +1,10 @@
 EventID,EventName,Sport,Type
-1,>75kg Women,Weightlifting,Final
-2,¼ Mile,Cycling,Final
-3,½ Mile,Cycling,Final
-4,½ Ton Class - Race 1,Sailing,Final
-5,½ Ton Class - Race 2,Sailing,Final
-6,½-1 Ton Class,Sailing,Final
+1,75kg Women,Weightlifting,Final
+2,Mile,Cycling,Final
+3,Mile,Cycling,Final
+4,Ton Class - Race 1,Sailing,Final
+5,Ton Class - Race 2,Sailing,Final
+6,1 Ton Class,Sailing,Final
 7,1 Mile,Cycling,Final
 8,1 Mile Freestyle Men,Swimming,Final
 9,1.1km Sprint Women,Nordic Skiing,Final
@@ -153,13 +153,13 @@ EventID,EventName,Sport,Type
 152,30km Cross-country Men,Nordic Skiing,Final
 153,30km Cross-country Men (Classical),Nordic Skiing,Final
 154,30km Cross-country Men (Freestyle),Nordic Skiing,Final
-155,30m² Class,Sailing,Final
+155,30m Class,Sailing,Final
 156,3-10 Ton Class,Sailing,Final
 157,3200m Steeplechase Men,Track & Field,Final
 158,3500m Walk Men,Track & Field,Final
 159,3-Mile Team Race,Track & Field,Final
 160,3x5km Cross Country Relay Women,Nordic Skiing,Final
-161,3x7½km Biathlon Relay Women,Biathlon,Final
+161,3x7km Biathlon Relay Women,Biathlon,Final
 162,4000m Freestyle Men,Swimming,Final
 163,4000m Individual Pursuit Men,Cycling,Final
 164,4000m Steeplechase Men,Track & Field,Final
@@ -173,7 +173,7 @@ EventID,EventName,Sport,Type
 172,400m Individual Medley Women,Swimming,Final
 173,400m Men,Track & Field,Final
 174,400m Women,Track & Field,Final
-175,40m² Class,Sailing,Final
+175,40m Class,Sailing,Final
 176,440yds Breaststroke Men,Swimming,Final
 177,440yds Freestyle Men,Swimming,Final
 178,470 Men,Sailing,Final
@@ -200,8 +200,8 @@ EventID,EventName,Sport,Type
 199,4x5km Cross-country Relay Women,Nordic Skiing,Final
 200,4x6km Relay Women,Biathlon,Final
 201,4x7.5km Relay Men,Biathlon,Final
-202,4x7½km Biathlon Relay Men,Biathlon,Final
-203,4x7½km Biathlon Relay Women,Biathlon,Final
+202,4x7km Biathlon Relay Men,Biathlon,Final
+203,4x7km Biathlon Relay Women,Biathlon,Final
 204,"5 Events, Individual Men",Gymnastics,Final
 205,5 Miles,Cycling,Final
 206,5 Miles Men,Track & Field,Final
@@ -230,7 +230,7 @@ EventID,EventName,Sport,Type
 229,"50m Small-bore Rifle, 3 Positions Women",Shooting,Final
 230,"50m Small-bore Rifle, prone",Shooting,Final
 231,50yds Freestyle Men,Swimming,Final
-232,5½ Meter Class,Sailing,Final
+232,5 Meter Class,Sailing,Final
 233,53kg Women,Weightlifting,Final
 234,56-Pound Weight Throw,Track & Field,Final
 235,57kg Women,Taekwondo,Final
@@ -244,14 +244,14 @@ EventID,EventName,Sport,Type
 243,6 Meter Class,Sailing,Final
 244,"6 Meter Class, 1907 Rating",Sailing,Final
 245,60m Men,Track & Field,Final
-246,6½ Meter Class,Sailing,Final
+246,6 Meter Class,Sailing,Final
 247,63kg Women,Weightlifting,Final
 248,67kg Women,Taekwondo,Final
 249,68kg Men,Taekwondo,Final
 250,69kg Women,Weightlifting,Final
 251,7 Meter Class,Sailing,Final
 252,7.5km Sprint Women,Biathlon,Final
-253,7½km Biathlon Women,Biathlon,Final
+253,7km Biathlon Women,Biathlon,Final
 254,75kg Women,Weightlifting,Final
 255,7-Man Naval Rowing Boats,Rowing,Final
 256,8 Meter Class,Sailing,Final
@@ -280,8 +280,8 @@ EventID,EventName,Sport,Type
 279,Asymmetrical Bars Women,Gymnastics,Final
 280,Au chapelet 33m Men,Archery,Final
 281,Au chapelet 50m Men,Archery,Final
-282,Au cordon doré 33m Men,Archery,Final
-283,Au cordon doré 50m Men,Archery,Final
+282,Au cordon dor 33m Men,Archery,Final
+283,Au cordon dor 50m Men,Archery,Final
 284,Balance Beam Women,Gymnastics,Final
 285,Bantamweight,Boxing,Final
 286,Bantamweight,Weightlifting,Final
@@ -360,13 +360,13 @@ EventID,EventName,Sport,Type
 359,Dumbbell Contest,Weightlifting,Final
 360,Eights Men,Rowing,Final
 361,Eights Women,Rowing,Final
-362,Épée for Amateurs and Masters (Open),Fencing,Final
-363,"Épée, Individual",Fencing,Final
-364,"Épée, Individual Men",Fencing,Final
-365,"Épée, Individual Women",Fencing,Final
-366,"Épée, Team",Fencing,Final
-367,"Épée, Team Men",Fencing,Final
-368,"Épée, Team Women",Fencing,Final
+362,pe for Amateurs and Masters (Open),Fencing,Final
+363,"pe, Individual",Fencing,Final
+364,"pe, Individual Men",Fencing,Final
+365,"pe, Individual Women",Fencing,Final
+366,"pe, Team",Fencing,Final
+367,"pe, Team Men",Fencing,Final
+368,"pe, Team Women",Fencing,Final
 369,Europe Women,Sailing,Final
 370,Extra Lightweight (48kg) Women,Judo,Final
 371,Extra Lightweight (60kg) Men,Judo,Final
@@ -587,7 +587,7 @@ EventID,EventName,Sport,Type
 586,Light Flyweight,Boxing,Final
 587,Light Heavyweight,Boxing,Final
 588,Light Heavyweight,Weightlifting,Final
-589,Light Heavyweight 82½kg,Weightlifting,Final
+589,Light Heavyweight 82kg,Weightlifting,Final
 590,Light Heavyweight 83kg,Weightlifting,Final
 591,Light Heavyweight 85kg,Weightlifting,Final
 592,Light Middleweight,Boxing,Final
@@ -600,7 +600,7 @@ EventID,EventName,Sport,Type
 599,Lightweight (68kg) Men,Judo,Final
 600,Lightweight (71kg) Men,Judo,Final
 601,Lightweight (73kg) Men,Judo,Final
-602,Lightweight 67½kg,Weightlifting,Final
+602,Lightweight 67kg,Weightlifting,Final
 603,Lightweight 69kg,Weightlifting,Final
 604,Lightweight 70kg,Weightlifting,Final
 605,Lightweight Coxless Fours Men,Rowing,Final
@@ -618,7 +618,7 @@ EventID,EventName,Sport,Type
 617,Mail Coach,Equestrian,Final
 618,Marathon Men,Track & Field,Final
 619,Marathon Women,Track & Field,Final
-620,Masters Épée,Fencing,Final
+620,Masters pe,Fencing,Final
 621,Masters Foil,Fencing,Final
 622,Masters Sabre,Fencing,Final
 623,Men,Figure Skating,Final
@@ -734,7 +734,7 @@ EventID,EventName,Sport,Type
 733,Sculpture,Art Contests,Final
 734,Sculpture Medals,Art Contests,Final
 735,Sculpture Reliefs,Art Contests,Final
-736,Sharpie 12m²,Sailing,Final
+736,Sharpie 12m,Sailing,Final
 737,Shot Put (both hands),Track & Field,Final
 738,Shot Put Men,Track & Field,Final
 739,Shot Put Women,Track & Field,Final
@@ -796,8 +796,8 @@ EventID,EventName,Sport,Type
 795,Super Heavyweight,Weightlifting,Final
 796,Super Heavyweight > 108kg,Weightlifting,Final
 797,Super Heavyweight >105kg,Weightlifting,Final
-798,Sur la perche á la herse Men,Archery,Final
-799,Sur la perche á la pyramide Men,Archery,Final
+798,Sur la perche  la herse Men,Archery,Final
+799,Sur la perche  la pyramide Men,Archery,Final
 800,Swallow,Sailing,Final
 801,Swedish System Team,Gymnastics,Final
 802,Synchronised Platform Diving Men,Diving,Final
