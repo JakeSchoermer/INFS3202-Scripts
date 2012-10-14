@@ -12,9 +12,13 @@ class Athletes
   
   @athletes = []
   @sports = Sports.new
-  
+  @countriesArray = []
+
 	def initialize
-		filepath = "../data_source/Athlete.csv"
+
+    @countriesArray = getCountryArray
+
+    filepath = "../data_source/Athlete.csv"
 
     rows = []
 
@@ -90,7 +94,7 @@ class Athletes
       @athletes.each_index {|index|
 
         if index >0
-          countryFK = getCountryFk(getCountry(index))
+          countryFK = getCountryFk(getCountry(index), @countriesArray)
 
           #puts countryFK
 

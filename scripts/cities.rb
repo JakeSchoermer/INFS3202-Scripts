@@ -12,7 +12,12 @@ class Cities
 
   @cities = []
 
+  @countriesArray = []
+
   def initialize
+
+    @countriesArray = getCountryArray
+
     filepath = "../data_source/City.csv"
 
     rows = []
@@ -58,7 +63,7 @@ class Cities
       @cities.each_index {|index|
 
         if index >0
-          countryFK = getCountryFk(getCountry(index))
+          countryFK = getCountryFk(getCountry(index), @countriesArray)
 
           #puts countryFK
 
