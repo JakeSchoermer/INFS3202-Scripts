@@ -108,6 +108,7 @@ class Athletes
     CSV.open(filepath, "wb") do |csv|
 
 
+
       @athletes.each_index {|index|
         if index >0
           csv << ["#{index}", getFirstName(index), getLastName(index), getDOB(index), getGender(index), getCountry(index)]
