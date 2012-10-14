@@ -51,7 +51,12 @@ class Results
   end
 
   def getMedal id
-    @results[id]["Medal"]
+    medal = @results[id]["Medal"].to_s.upcase
+
+    if medal != "GOLD" and medal != "SILVER" and medal != "BRONZE" and medal != ""
+      puts "Medal with ID #{id} is invalid - has value #{medal}"
+    end
+
   end
 
   def writeOutput
