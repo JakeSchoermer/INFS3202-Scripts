@@ -13,7 +13,6 @@ Cities
 
 Countries
 	countryID			integer			PRIMARY KEY
-	countryCode			string
 	countryName			string							//Full country name
 
 Events
@@ -28,6 +27,11 @@ Olympics
 	year				integer
 	season				integer						//1 = summer, 2 = winter
 
+Sports
+    sportID             integer         PRIMARY KEY
+    sportName           string
+    sportDescription    string
+
 Results
 	resultID			integer			PRIMARY KEY
 	atheleteID			integer			FOREIGN KEY
@@ -35,6 +39,5 @@ Results
 	olympicID			integer			FOREIGN KEY
 	result 				string
 	medal				string
-
 
 

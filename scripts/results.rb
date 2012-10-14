@@ -4,10 +4,10 @@ $: << "." #Append Current Directory to Load Path
 
 
 require "csv"
-require "countries"
+require "country_codes"
 
 class Results
-  include Countries
+  include CountryCodes
 
   @results = []
 
@@ -18,14 +18,12 @@ class Results
     rows = []
 
     CSV.foreach(filepath, :headers => true, :return_headers => true,
-                :converters => :all)do |row|
+                :converters => :all) do |row|
       #puts row
       rows << row
     end
       @results = rows
-
   end
-
 
   def getEventId id
     @results[id]["EventID"]
@@ -47,7 +45,6 @@ class Results
     else
       result
     end
-
   end
 
   def getMedal id

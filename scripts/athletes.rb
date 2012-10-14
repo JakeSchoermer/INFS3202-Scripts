@@ -4,13 +4,14 @@ $: << "." #Append Current Directory to Load Path
 
 
 require "csv"
-require "countries"
+require "country_codes"
+require "sports"
 
 class Athletes
-  include Countries
+  include CountryCodes
   
   @athletes = []
-
+  @sports = Sports.new
   
 	def initialize
 		filepath = "../data_source/Athlete.csv"
@@ -24,27 +25,6 @@ class Athletes
       @athletes = rows
   end
 
-  def printAllRecords
-    @athletes.each do |row|
-      puts "#{row}"
-    end
-  end
-
-  def getHeaders
-
-    @athletes[0]
-
-  end
-
-  def printHeaders
-
-    output = ""
-
-    @athletes.each {|word|
-      output += "#{word} "
-    }
-
-  end
 
   def getRecord(id)
 
@@ -106,8 +86,6 @@ class Athletes
     filepath = "../output/Athlete.csv"
 
     CSV.open(filepath, "wb") do |csv|
-
-
 
       @athletes.each_index {|index|
         if index >0

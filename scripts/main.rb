@@ -6,6 +6,7 @@ require "events"
 require "sports"
 require "olympics"
 require "results"
+require "countries"
 
 puts "//========== Athletes ==========//\n"
 puts "\n"
@@ -13,6 +14,11 @@ puts "\n"
 #athletes.writeOutput
 #puts "File Written"
 puts "\n"
+puts "//========== Countries ==========//\n"
+countries = Countries.new
+countries.writeOutput
+puts "File Written"
+puts"\n"
 puts "//========== Cities ==========//\n"
 #cities = Cities.new
 #cities.writeOutput
@@ -34,7 +40,7 @@ puts "//========== Olympics ==========//\n"
 #puts "File Written"
 puts"\n"
 puts "//========== Results ==========//\n"
-results = Results.new
-results.writeOutput
-puts "File Written"
+#results = Results.new
+#results.writeOutput
+#puts "File Written"
 puts"\n"

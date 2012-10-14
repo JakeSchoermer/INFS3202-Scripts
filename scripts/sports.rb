@@ -4,11 +4,11 @@ $: << "." #Append Current Directory to Load Path
 
 
 require "csv"
-require "countries"
+require "country_codes"
 
 class Sports
-  include Countries
-  
+  include CountryCodes
+
   @sports = []
 
   
@@ -31,6 +31,7 @@ class Sports
   def getDescription id
     @sports[id]["Description"]
   end
+
 
   def writeOutput
     filepath = "../output/Sport.csv"

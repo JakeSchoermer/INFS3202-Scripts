@@ -4,10 +4,10 @@ $: << "." #Append Current Directory to Load Path
 
 
 require "csv"
-require "countries"
+require "country_codes"
 
 class Cities
-  include Countries
+  include CountryCodes
 
   @cities = []
 
