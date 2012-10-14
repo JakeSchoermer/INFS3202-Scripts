@@ -51,12 +51,12 @@ class Athletes
     gender = @athletes[id]["Gender"].to_s.downcase
 
     if gender == "male" || gender == "m"
-      gender = "M"
+      return "M"
     elsif gender == "female" || gender == "f"
-      gender = "F"
+      return "F"
+    else
+      return nil
     end
-
-    gender
 
 
   end
@@ -88,8 +88,14 @@ class Athletes
     CSV.open(filepath, "wb") do |csv|
 
       @athletes.each_index {|index|
+
         if index >0
-          csv << ["#{index}", getFirstName(index), getLastName(index), getDOB(index), getGender(index), getCountry(index)]
+          countryFK = getCountryFk(getCountry(index))
+
+          #puts countryFK
+
+          csv << ["#{index}", getFirstName(index), getLastName(index),
+                  getDOB(index), getGender(index), countryFK]
         end
       }
 

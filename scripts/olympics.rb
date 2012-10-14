@@ -20,7 +20,7 @@ class Olympics
     year = 1896
     id = 1
 
-    until year == 2012
+    until year == 2013
 
       row = [id, year, getSeason(year)]
       rows << row

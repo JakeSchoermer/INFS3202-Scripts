@@ -6,6 +6,7 @@ $: << "." #Append Current Directory to Load Path
 require "csv"
 require "country_codes"
 
+
 class Cities
   include CountryCodes
 
@@ -54,10 +55,14 @@ class Cities
 
     CSV.open(filepath, "wb") do |csv|
 
-
       @cities.each_index {|index|
+
         if index >0
-          csv << ["#{index}", getCity(index), getCountry(index)]
+          countryFK = getCountryFk(getCountry(index))
+
+          #puts countryFK
+
+          csv << ["#{index}", getCity(index), countryFK]
         end
       }
 

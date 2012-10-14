@@ -10,9 +10,9 @@ require "countries"
 
 puts "//========== Athletes ==========//\n"
 puts "\n"
-#athletes = Athletes.new
-#athletes.writeOutput
-#puts "File Written"
+athletes = Athletes.new
+athletes.writeOutput
+puts "File Written"
 puts "\n"
 puts "//========== Countries ==========//\n"
 countries = Countries.new
@@ -20,27 +20,27 @@ countries.writeOutput
 puts "File Written"
 puts"\n"
 puts "//========== Cities ==========//\n"
-#cities = Cities.new
-#cities.writeOutput
-#puts "File Written"
+cities = Cities.new
+cities.writeOutput
+puts "File Written"
 puts"\n"
 puts "//========== Events ==========//\n"
-#events = Events.new
-#events.writeOutput
-#puts "File Written"
+events = Events.new
+events.writeOutput
+puts "File Written"
 puts"\n"
 puts "//========== Sports ==========//\n"
-#sports = Sports.new
-#sports.writeOutput
-#puts "File Written"
+sports = Sports.new
+sports.writeOutput
+puts "File Written"
 puts"\n"
 puts "//========== Olympics ==========//\n"
-#olympics = Olympics.new
-#olympics.writeOutput
-#puts "File Written"
+olympics = Olympics.new
+olympics.writeOutput
+puts "File Written"
 puts"\n"
 puts "//========== Results ==========//\n"
-#results = Results.new
-#results.writeOutput
-#puts "File Written"
+results = Results.new
+results.writeOutput
+puts "File Written"
 puts"\n"
