@@ -5,7 +5,6 @@ $: << "." #Append Current Directory to Load Path
 
 require "csv"
 require "country_codes"
-require 'ruby-debug'
 
 class Results
   include CountryCodes
