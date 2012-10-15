@@ -84,7 +84,7 @@ class Results
         
         return @olympics[i]["1"]
       else
-        puts @olympics[i][1].to_s + " . " + @results[id]["OlympicYear"].to_s
+        #puts @olympics[i][1].to_s + " . " + @results[id]["OlympicYear"].to_s
         next
       end
     end

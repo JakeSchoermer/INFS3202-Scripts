@@ -48,7 +48,18 @@ class Athletes
   end
 
   def getDOB id
-    @athletes[id]["DateOfBirth"]
+
+    if @athletes[id]["DateOfBirth"] != nil
+
+      dob = @athletes[id]["DateOfBirth"].to_s.split[0]
+      dob = dob.split("/")
+
+      output = dob[2]+"/"+dob[1]+"/"+dob[0]
+
+      output
+    else
+      ""
+    end
   end
 
   def getGender id
