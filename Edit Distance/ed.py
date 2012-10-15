@@ -5,21 +5,12 @@ Email: arkilis@gmail.com
 Date: 19 June 2012
 """
 
-#welcome info
-print("University of Queensland, School of ITEE, INFS3200")
-print(80*"=")
-print("Help Tips:")
-print("Usage 1: edit_distance(string1,string2) e.g. edit_distance('dog','cat')")
-print("Usage 2: ed_names(sample name, int k) e.g.ed_names('Deng', 1)")
-print("Usage 3: ed_group(int k) e.g ed_group(1)")
-print(8*" "+"'Minxia', 1)")
-print(9*" "+"k=1 means trying to match first name.")
-print(9*" "+"k=2 means trying to match surname.")
-print(80*"=")
-print("\r\n");
+import sys
+
+numberFound = 0
 
 """
-Compute the edit distance between two given
+Compute the edit edit_distance between two given
 strings (s1 and s2)
 """
 def edit_distance(s1, s2):
@@ -57,6 +48,7 @@ def ed_names(sample_name, k):
     fp= open("Athlete.txt")
     res= []
 
+
     list_lines= fp.readlines()
 
     for line in list_lines:
@@ -66,7 +58,7 @@ def ed_names(sample_name, k):
         szTmp= szTmp[1:len(szTmp)-1]
         if(edit_distance(sample_name, szTmp)< 3):
              print(sample_name + " and "+ szTmp+ " : %d" % edit_distance(sample_name, szTmp))
-             res.append(szTmp)
+             res.append(line)
     
     fp.close()
     print("%d matched!" % len(res))
@@ -101,4 +93,16 @@ def ed_group(k):
     fp.close()
     output.close()
     return res
+
+def main():
+        comparisonName = sys.argv[1]
+        res = ed_names(comparisonName, 1)
+
+        output = open('results.txt', 'w')
+        for line in res:
+            output.write(line+"\r\n")
+
+
+if __name__ == "__main__":
+    sys.exit(main())
 
